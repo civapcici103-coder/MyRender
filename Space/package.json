@@ -1,0 +1,8 @@
+{
+  "name": "pulse-relay",
+  "version": "2.2.0",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "ws": "^8.23.0" },
+  "engines": { "node": ">=18" }
+}
